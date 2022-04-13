@@ -1,0 +1,120 @@
+body{
+	background-image: url("../slike/pozadinaa.jpg");
+}
+.strana{
+    background-color: aliceblue;
+	margin-left:17%;
+    margin-right:17%;
+    margin-top: 0px;
+    padding-top: 0px;
+    height: 100%;
+    margin-bottom: 0px;
+    
+}
+.header{
+	background-image: url("../slike/drva.jpg");
+	border:5px solid black;
+    margin-bottom: 0px;
+      } 
+.header img{
+	width:400px;
+	height:200px;
+	overflow: hidden;
+	margin-top:5px;
+	margin-bottom:5px;
+	  }
+.center{	
+    display:block;
+    margin-left:auto;
+	margin-right:auto;
+	  }
+
+.meni{
+	height:3%;
+    cursor: pointer;  
+}
+
+a {
+   color:black;
+   float: left;
+   display: block;
+   text-decoration: none;
+   font-weight:bold;
+   text-align: center;
+   padding-top: 5px;
+}
+#prvi{
+    width: 16%;
+    height: 100%;
+    border-bottom: 5px solid black;
+
+}
+#drugi{
+    width: 17%;
+    height: 100%;
+    background-color: gray;
+    border-bottom: 5px solid black;
+
+}
+#treci{
+    width: 17%;
+    height: 100%;
+    border-bottom: 5px solid black;
+
+}
+#cetvrti{
+    width: 17%;
+    height: 100%;
+    border-bottom: 5px solid black;
+
+}
+#peti{
+    width: 17%;
+    height: 100%;
+    border-bottom: 5px solid black;
+}
+#sesti{
+    width: 16%;
+    height: 100%;
+    border-bottom: 5px solid black;
+}
+
+#pasuss{
+	float:left;
+	width:43%;
+	font-size:19;
+	background-color:white;
+	text-align:center;
+	margin-left:20px;
+	height:120px;
+	padding-top:10px;
+	padding-bottom:10px;
+	padding-right:10px;
+	padding-left:10px;
+	font-weight:bold;
+}
+#pasusss{
+	float:right;
+	width:43%;
+	font-size:19;
+	background-color:white;
+	text-align:center;
+    margin-right:20px;
+	height:120px;
+	padding-top:10px;
+	padding-bottom:10px;
+	padding-right:10px;
+	padding-left:10px;
+	font-weight:bold;
+}
+
+b{
+	color:darkred;
+}
+
+
+
+
+p{
+    text-align: left;
+}
